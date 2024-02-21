@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FakeApiStore/static/css/main.e8fd1425.css",
+    "main.js": "/FakeApiStore/static/js/main.0f4902cc.js",
+    "static/js/453.340f5b10.chunk.js": "/FakeApiStore/static/js/453.340f5b10.chunk.js",
+    "index.html": "/FakeApiStore/index.html",
+    "main.e8fd1425.css.map": "/FakeApiStore/static/css/main.e8fd1425.css.map",
+    "main.0f4902cc.js.map": "/FakeApiStore/static/js/main.0f4902cc.js.map",
+    "453.340f5b10.chunk.js.map": "/FakeApiStore/static/js/453.340f5b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fd1425.css",
+    "static/js/main.0f4902cc.js"
+  ]
+}
